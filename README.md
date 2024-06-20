@@ -10,14 +10,14 @@
 2. GRP_VEN
 3. GRP_SEC
    
-### - Diretórios
+###  Diretórios
 
 | GRP_ADM  | GRP_VEN  | GRP_SEC  |
 | -------- | -------- | -------- |
 | /publico | /publico | /publico |
 | /adm     | /ven     | /sec     |
 
-### - Usuários
+### Usuários
 
 | GRP_ADM | GRP_VEN    | GRP_SEC  |
 | ------- | ---------- | -------- |
